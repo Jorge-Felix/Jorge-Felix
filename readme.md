@@ -3,7 +3,7 @@
   <!-- Imagen destacada estilo sacro -->
   <img src="https://github.com/Jorge-Felix/whoami/blob/main/img/65ddb157c5430.jpeg" alt="Artistic Portrait" width="250" style="border-radius: 50%; margin-bottom: 20px;"/>
 
-  <h1 style="margin-top: 10px; font-size: 3em; letter-spacing: 2px;">Jorge Felix (<em>bigbudda</em>)</h1>
+  <h1 style="margin-top: 10px; font-size: 3em; letter-spacing: 2px;">Jorge Felix (<em>ROPChain</em>)</h1>
   <h2 style="font-style: italic; margin-bottom: 1em;">“Where art meets cybersecurity”</h2>
 </div>
 
@@ -54,7 +54,7 @@
 
 ## 📫 Connect With Me  
 
-- GitHub → [@bigbudda](https://github.com/bigbudda)  
+- GitHub → [@bigbudda](https://github.com/Jorge-Felix)  
 - LinkedIn → [Jorge Félix González Arias](https://www.linkedin.com/in/jorge-félix-gonzález-arias-9833b1305/)  
 
 ---
