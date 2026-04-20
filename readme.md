@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠 Skills & Tools  
+##  Skills & Tools  
 
 | Discipline              | Tools & Approaches                          |
 |-------------------------|---------------------------------------------|
@@ -52,7 +52,7 @@
 
 ---
 
-## 📫 Connect With Me  
+##  Connect With Me  
 
 - GitHub → [@bigbudda](https://github.com/Jorge-Felix)  
 - LinkedIn → [Jorge Félix González Arias](https://www.linkedin.com/in/jorge-félix-gonzález-arias-9833b1305/)  
