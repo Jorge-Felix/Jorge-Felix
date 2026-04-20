@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 About Me  
+## About Me  
 
 - **2020–2023** → Self-taught, exploring cybersecurity, reverse engineering and low-level malware analysis.  
 - **2024–Now** → University studies in cybersecurity, strengthening my foundations while keeping my autodidact spirit alive.  
@@ -23,13 +23,13 @@
 
 ---
 
-## 📜 Licenses & Certifications  
+## Licenses & Certifications  
 
-- 🛡 **Threat Intelligence Fundamentals for SOC Analysts** – SOCRadar *(Aug 2025)*  
-- 🔑 **Ethical Hacker** – Cisco *(Apr 2025)*  
-- 🌐 **CCNA: Switching, Routing, and Wireless Essentials** – Cisco *(Dec 2024)*  
-- 📡 **CCNA: Introduction to Networks** – Cisco Networking Academy *(2024)*  
-- ⏳ *Coming soon:* **Hack The Box – Certified Defensive Security Analyst (HTB CDSA)**  
+-  **Threat Intelligence Fundamentals for SOC Analysts** – SOCRadar *(Aug 2025)*  
+-  **Ethical Hacker** – Cisco *(Apr 2025)*  
+-  **CCNA: Switching, Routing, and Wireless Essentials** – Cisco *(Dec 2024)*  
+-  **CCNA: Introduction to Networks** – Cisco Networking Academy *(2024)*  
+-  *Coming soon:* **Hack The Box – Certified Defensive Security Analyst (HTB CDSA)**  
 
 ---
 
@@ -44,7 +44,7 @@
 
 ---
 
-## 🌱 Currently Exploring  
+##  Currently Exploring  
 
 - Advanced evasion & obfuscation techniques  
 - Detection engineering with YARA & Sigma  
