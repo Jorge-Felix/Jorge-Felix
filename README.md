@@ -1,10 +1,10 @@
 # Jorge-Felix
 
-**Theme:** Aurora · **Style:** Creative · **Agent:** Full-Stack Engineer
+**Theme:** Aurora · **Style:** Creative · **Agent:** Security Researcher
 
 ## Header
-> Editing this section in the inspector.
-Hi, I'm **Jorge-Felix**. This README is tuned for **personal brand** with a Aurora visual system.
+> Breaking binaries, one gadget at a time.
+Hi, I'm **Jorge Gonzalez** *(alias: ROPChain)*. Security researcher focused on reverse engineering, malware analysis, and binary exploitation.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Jorge-Felix&theme=aurora&style=terminal&mode=light" />
@@ -24,7 +24,7 @@ Hi, I'm **Jorge-Felix**. This README is tuned for **personal brand** with a Auro
   </picture>
 </p>
 ## About Me
-Shapes the short profile story and positioning.
+Low-level security researcher with experience in malware analysis, binary exploitation, and reverse engineering. I work with x86/x64 architectures and use frameworks like Qiling for malware emulation -- from shellcode loaders to ROP chains.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=Jorge-Felix&theme=aurora&style=terminal&mode=light" />
@@ -32,7 +32,9 @@ Shapes the short profile story and positioning.
   </picture>
 </p>
 ## Skills
-Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+**Languages:** C - Python - x86/x64 Assembly
+**Tools:** Binary Ninja - x64dbg/x32dbg - GDB - pwntools - Qiling
+**Areas:** Reverse Engineering - Binary Exploitation - Malware Analysis - Shellcoding
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=Jorge-Felix&theme=aurora&style=terminal&mode=light" />
@@ -40,7 +42,7 @@ Selected stack and skill badges will be generated from the GitHub profile and RE
   </picture>
 </p>
 ## GitHub Stats
-GitSkins stat widgets will use the **Aurora** theme.
+Activity and code stats -- mostly C, Python, and low-level work.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=Jorge-Felix&theme=aurora&style=terminal&mode=light" />
@@ -48,7 +50,8 @@ GitSkins stat widgets will use the **Aurora** theme.
   </picture>
 </p>
 ## Projects
-Highlights repositories as proof of work.
+**[maldev-exp](https://github.com/Jorge-Felix/maldev-exp)** -- ROP chain experiments, shellcode loaders (x86/x64), custom stdlib in C.
+**[snakedecom](https://github.com/Jorge-Felix/snakedecom)** -- tool to extract and decompile Python code from PyInstaller executables.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=Jorge-Felix&theme=aurora&style=terminal&mode=light" />
@@ -56,7 +59,7 @@ Highlights repositories as proof of work.
   </picture>
 </p>
 ## Highlights
-Value-prop feature cards drawn from the profile.
+RE-first mindset - Malware emulation with Qiling - Binary exploitation and shellcoding - Low-level C/ASM development
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=Jorge-Felix&theme=aurora&style=terminal&mode=light" />
@@ -72,7 +75,7 @@ Animated year-long contribution calendar.
   </picture>
 </p>
 ## Connect
-Contact and social links will appear here.
+Find me on [LinkedIn](https://www.linkedin.com/in/jorge-f%C3%A9lix-gonz%C3%A1lez-arias-9833b1305/) -- open to talk about security research, RE, and binary exploitation.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=Jorge-Felix&theme=aurora&style=terminal&mode=light" />
