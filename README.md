@@ -1,6 +1,6 @@
 # Jorge-Felix
 
-**Theme:** Aurora · **Style:** Creative · **Agent:** Security Researcher
+**Role:** Security Researcher
 
 ## Header
 > Breaking binaries, one gadget at a time.
