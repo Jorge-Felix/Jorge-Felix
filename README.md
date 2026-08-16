@@ -37,7 +37,7 @@ Low-level security researcher with experience in malware analysis, binary exploi
 ## Skills
 
 **Languages:** C - Python - x86/x64 Assembly
-**Tools:** Binary Ninja - x64dbg/x32dbg - GDB - pwntools - Qiling
+**Tools:** Binary Ninja - x64dbg/x32dbg - GDB - pwntools - Qiling - etc
 **Areas:** Reverse Engineering - Binary Exploitation - Malware Analysis - Shellcoding
 <p align="center">
   <picture>
