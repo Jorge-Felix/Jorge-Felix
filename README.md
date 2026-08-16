@@ -1,8 +1,6 @@
 # Jorge-Felix
 
-> Memorable developer positioning.
-
-**Theme:** Aurora · **Style:** Creative · **Agent:** Full-Stack Engineer
+**Theme:** Aurora · **Style:** Creative · **Agent:** Security Researcher
 
 ## Header
 > Editing this section in the inspector.
